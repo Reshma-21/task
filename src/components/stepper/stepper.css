@@ -1,0 +1,26 @@
+
+.m_aaf89d0b{
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: 30%;
+}
+
+.step {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+  }
+
+  .step-labels {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-left: 30%;
+    font-size: 1rem;
+    
+  }
+  
+
